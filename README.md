@@ -1,4 +1,4 @@
-# Barra de Progresso
+# Calculadora de Gorjeta
 
 ## 📖 Introdução 
 
